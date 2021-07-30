@@ -1,3 +1,5 @@
 print("Hello World")
 print('this is my first program')
 print('thanks yoy')
+print('thanks you')
+print('Namsthe guys')
